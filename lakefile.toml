@@ -1,10 +1,10 @@
 name = "ontology"
 version = "0.1.0"
-defaultTargets = ["ontology"]
+defaultTargets = ["Ontology"]
 
 [[lean_lib]]
 name = "Ontology"
 
 [[lean_exe]]
-name = "ontology"
+name = "leaning"
 root = "Main"
