@@ -1,0 +1,10 @@
+name = "ontology"
+version = "0.1.0"
+defaultTargets = ["ontology"]
+
+[[lean_lib]]
+name = "Ontology"
+
+[[lean_exe]]
+name = "ontology"
+root = "Main"
